@@ -1,6 +1,6 @@
 # 💫 About Me:
 - An Electronics Engineer  
-- Enhancing skills in cloud computing, C++, and tech-related areas, along with an AI project for a servo-based humidifier.  
+- Enhancing skills in cloud computing, system design, along with an AI project for a servo-based humidifier.  
 - 🌱 I’m currently learning Data Structures and Algorithms in C++, [Love Babbar playlist]  
 
 ## 🌐 Socials:

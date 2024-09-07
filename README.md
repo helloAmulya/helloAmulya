@@ -1,7 +1,7 @@
 # 💫 About Me:
 - An Electronics Engineer  
 - Enhancing skills in cloud computing, system design, along with an AI project for a servo-based humidifier.  
-- 🌱 I’m currently learning Data Structures and Algorithms in C++, [Love Babbar playlist]  
+- 🌱 I’m currently learning Data Structures and Algorithms in C++ along with Web Development.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amulyaratna.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helloAmulya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/helloAmulya) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@amulyaratna20)

@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 - An Electronics Engineer  
 - Enhancing skills in Web Development with Javascript and React
 - 🌱 I’m currently learning Data Structures and Algorithms in C++

@@ -1,19 +1,33 @@
-# 💫 About Me:
-- An Electronics Engineer  
-- Enhancing skills in Web Development with Javascript and React
-- 🌱 I’m currently learning Data Structures and Algorithms in C++
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/84002250?v=4" width="150px;" alt="Ravi Yadav's Profile Picture">
+  <h1>Ravi Yadav</h1>
+  <a href="https://github.com/TheXro">TheXro</a>
+  <p>A computer is like air conditioning - it becomes useless when you open Windows.</p>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amulyaratna.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helloAmulya) 
+<div align="center">
+  <img src="https://i.imgur.com/3x1433P.png" alt="Hello! I'm Ravi"> 
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
+<h3>Programming and Markup Languages</h3>
+<div align="center">
+  <img src="https://i.imgur.com/3x1433P.png" alt="Programming and Markup Languages">
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=helloAmulya&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=helloAmulya&theme=github_dark&hide_border=false)<br/>
+<h3>Software and Tools</h3>
+<div align="center">
+  <img src="https://i.imgur.com/3x1433P.png" alt="Software and Tools">
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=helloAmulya&icon=0&color=9)](https://visitcount.itsvg.in)
+<h3>Github Stats and Activity</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheXro&show_icons=true&count_private=true&theme=tokyonight" alt="Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheXro&layout=compact&theme=tokyonight" alt="Top Languages">
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <h3>Achievements</h3>
+  <a href="https://www.hackerrank.com/profiles/thexro">
+    <img src="https://i.imgur.com/3x1433P.png" alt="HackerRank Profile">
+  </a>
+</div>

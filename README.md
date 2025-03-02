@@ -1,10 +1,9 @@
 ## 👋 Hey there! I'm Amulya!
 
 ### 🚀 About Me:
-- 🎓 An Electronics Engineer diving deep into **Web Development**.
-- 💻 Currently working with **React, JavaScript, and Appwrite**.
-- 📚 Learning core subjects like **Operating Systems (OS), Database Management Systems (DBMS), and more**.
-- 🚀 Focused on building real-world projects and enhancing my development skills.
+- 💻 Web Developer working with **React, JavaScript, and Appwrite**.
+- 📚 Exploring **OS, DBMS**, and other core CS concepts.
+- 🚀 Passionate about building projects and learning new technologies.
 
 ### 🌍 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/amulyaratna.1) 

@@ -1,9 +1,10 @@
 ## 👋 Hey there! I'm Amulya!
 
 ### 🚀 About Me:
-- 🎓 An Electronics Engineer with a passion for innovation.
-- 💻 Enhancing my skills in Web Development with **JavaScript**.
-- 🌱 Currently learning **Data Structures and Algorithms in C++**.
+- 🎓 An Electronics Engineer diving deep into **Web Development**.
+- 💻 Currently working with **React, JavaScript, and Appwrite**.
+- 📚 Learning core subjects like **Operating Systems (OS), Database Management Systems (DBMS), and more**.
+- 🚀 Focused on building real-world projects and enhancing my development skills.
 
 ### 🌍 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/amulyaratna.1) 
@@ -14,26 +15,20 @@
 
 ## 💻 Tech Stack:
 
-### 🚀 Programming Languages:
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-
-### 🌐 Web Development:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Appwrite](https://img.shields.io/badge/Appwrite-%23F02E65.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 
 ### 🛢 Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ⚙️ Tools & Platforms:
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-
-### 🎨 Design Tools:
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 

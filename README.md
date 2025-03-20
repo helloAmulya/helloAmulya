@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Amulya!  
 
-<img src="https://source.unsplash.com/1000x300/?coding,developer" alt="Tech Banner" width="100%">  
+<img src="[https://source.unsplash.com/1000x300/?coding,developer](https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?t=st=1742476655~exp=1742480255~hmac=b9487b8a74cf9aaac31550305ce3c9a0ba8f72a75acfe89d617c22ef232acef2&w=1380)" alt="Tech Banner" width="100%">  
 
 ### 🚀 About Me  
 💻 Full-Stack Developer working with **React, JavaScript, and Appwrite**.  

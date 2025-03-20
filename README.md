@@ -1,6 +1,8 @@
 ## 👋 Hey there, I'm Amulya!  
 
-<img src="https://raw.githubusercontent.com/helloAmulya/helloAmulya/main/freepik__background__69507.png" alt="Tech Banner" width="40%">  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/helloAmulya/helloAmulya/main/freepik__background__69507.png" alt="Tech Banner" width="50%">
+</p>  
 
 ### 🚀 About Me  
 💻 Full-Stack Developer working with **React, JavaScript, and Appwrite**.  
@@ -53,9 +55,3 @@
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>  
 </p>  
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=helloAmulya&icon=0&color=9)  
-
-🔥 _"Code it. Ship it. Scale it."_ 🚀  

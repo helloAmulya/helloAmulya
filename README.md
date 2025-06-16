@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- ⚙️ Favorite tools: VS Code, Tailwind, React, ChatGPT  
+- ⚙️ Favorite tools: VS Code, Tailwind, React & ChatGPT  
 - 🌐 **Portfolio:** [amulyaratna.vercel.app](https://amulyaratna.vercel.app)  
 - 📬 **Reach me at:** ratna.amulya98@gmail.com  
 

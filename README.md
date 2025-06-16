@@ -4,23 +4,17 @@
   <img src="https://raw.githubusercontent.com/helloAmulya/helloAmulya/main/freepik__background__69507.png" alt="Tech Banner" width="50%">
 </p>  
 
-### 🚀 About Me  
-💻 Full-Stack Developer working with **React, JavaScript, and Appwrite**.  
-📚 Exploring **OS, DBMS**, and core **CS concepts**.  
-🎯 Passionate about **problem-solving, open-source, and building scalable projects**.  
+### 🚀 🧠 About Me
+🛠️ Tools I love: VS Code, Tailwind, React Js & Chatgpt
+🌐 Portfolio: amulyaratna.vercel.app
+📬 Reach me at: ratna.amulya98@gmail.com
 
 ---
 
 ### 🛠️ Tech Stack  
 
 **Languages & Frameworks**  
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appwrite-%23F02E65.svg?style=for-the-badge&logo=appwrite&logoColor=white" />
-</p>  
-
+(https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,git,docker,appwrite,firebase,jwt)](https://skillicons.dev)
 **Databases**  
 <p>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />

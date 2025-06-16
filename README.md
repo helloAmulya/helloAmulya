@@ -1,31 +1,27 @@
 ## 👋 Hey there, I'm Amulya!  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/helloAmulya/helloAmulya/main/freepik__background__69507.png" alt="Tech Banner" width="50%">
+  <img src="https://raw.githubusercontent.com/helloAmulya/helloAmulya/main/freepik__background__69507.png" alt="Tech Banner" width="50%" />
 </p>  
 
-### 🚀 🧠 About Me
-🛠️ Tools I love: VS Code, Tailwind, React Js & Chatgpt
-🌐 Portfolio: amulyaratna.vercel.app
-📬 Reach me at: ratna.amulya98@gmail.com
+---
+
+### 🚀 About Me
+
+- 💻 I love building web apps using React, Tailwind, and Firebase.  
+- ✨ I enjoy clean UI, meaningful projects, and learning deeply.  
+- ⚙️ Favorite tools: VS Code, Tailwind, React, ChatGPT  
+- 🌐 **Portfolio:** [amulyaratna.vercel.app](https://amulyaratna.vercel.app)  
+- 📬 **Reach me at:** ratna.amulya98@gmail.com  
 
 ---
 
 ### 🛠️ Tech Stack  
 
-**Languages & Frameworks**  
-(https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,git,docker,appwrite,firebase,jwt)](https://skillicons.dev)
-**Databases**  
+#### 💡 Languages & Frameworks  
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>  
-
-**Tools & Platforms**  
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>  
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,tailwind,git,docker,appwrite,firebase,jwt" alt="Tech Stack Icons" />
+</p>
 
 ---
 
@@ -38,14 +34,16 @@
 ---
 
 ### 🌎 Connect with Me  
-<p>
-  <a href="https://instagram.com/amulyaratna.1">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>  
-  <a href="https://linkedin.com/in/helloAmulya">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>  
-  <a href="https://github.com/helloAmulya">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>  
-</p>  
+
+<p align="left">
+  <a href="https://github.com/helloAmulya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/helloAmulya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/amulyaratna.1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+</p>
+

@@ -18,7 +18,7 @@
 
 #### 💡 Languages & Frameworks  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,git,appwrite,firebase,jwt,docker" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,git,appwrite,firebase,docker" alt="Tech Stack Icons" />
 </p>
 
 ---

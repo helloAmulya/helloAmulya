@@ -8,8 +8,6 @@
 
 ### 🚀 About Me
 
-- 💻 I love building web apps using React, Tailwind, and Firebase.  
-- ✨ I enjoy clean UI, meaningful projects, and learning deeply.  
 - ⚙️ Favorite tools: VS Code, Tailwind, React, ChatGPT  
 - 🌐 **Portfolio:** [amulyaratna.vercel.app](https://amulyaratna.vercel.app)  
 - 📬 **Reach me at:** ratna.amulya98@gmail.com  
@@ -20,7 +18,7 @@
 
 #### 💡 Languages & Frameworks  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,tailwind,git,docker,appwrite,firebase,jwt" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,git,appwrite,firebase,jwt,docker" alt="Tech Stack Icons" />
 </p>
 
 ---

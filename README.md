@@ -3,8 +3,6 @@
 
 ---
 
-### 🛠️ Tech Stack  
-
 #### 💡 Languages & Frameworks  
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,git,appwrite,firebase,docker" alt="Tech Stack Icons" />

@@ -1,10 +1,3 @@
-## Hey there, I'm Amulya!  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/helloAmulya/helloAmulya/main/freepik__background__69507.png" alt="Tech Banner" width="50%" />
-</p>  
-
----
 
 21, engineer. I like to build.
 

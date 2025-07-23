@@ -1,5 +1,5 @@
 
-21, engineer. I like to build.
+21, Electronics Engineer. I like to code.
 
 ---
 

@@ -1,5 +1,5 @@
 
-21, Electronics Engineer. I like to code.
+21, Electronics Engineer.
 
 ---
 
@@ -12,7 +12,6 @@
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helloAmulya&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=helloAmulya&theme=github_dark&hide_border=false" width="48%" />  
 </p>  
 
@@ -26,9 +25,6 @@
   </a>
   <a href="https://linkedin.com/in/helloAmulya" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/amulyaratna.1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
 
